@@ -1,1 +1,1 @@
-# TeamProject2_BurgerInventory
+# TeamProject2_Burger
